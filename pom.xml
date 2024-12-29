@@ -12,7 +12,7 @@
     </parent>
 
     <!-- Артефакт микросервиса -->
-    <artifactId>chat-service</artifactId>
+    <artifactId>chatservice</artifactId>
 
     <!-- Зависимости -->
     <dependencies>
